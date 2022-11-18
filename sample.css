@@ -6,7 +6,7 @@
 }
 .closer{
     /* background-color:lightgray; */
-    background-image: url('./images/dental.jpg');
+    background-image: url('dental.jpg');
     height: 50vh;
     width: 30%;
     padding: 10px 10px;
@@ -16,7 +16,7 @@
     transform: scale(1.1);
 }
 .closer1{
-    background-image: url('./images/Cardiologist.jpg');
+    background-image: url('Cardiologist.jpg');
     /* background-color:lightblue; */
     height: 50vh;
     width: 30%;
@@ -28,7 +28,7 @@
 }
 .closer2{
     /* background-color:lightpink; */ 
-    background-image: url('./images/orthopedic.jpg');
+    background-image: url('orthopedic.jpg');
     height: 50vh;
     width: 30%;
     padding: 10px 10px;  
@@ -47,7 +47,7 @@
 
 .closer3{
     /* background-color:lightcyan; */
-    background-image: url('./images/Neurology.jpg');
+    background-image: url('Neurology.jpg');
     height: 50vh;
     width: 30%;
     padding: 10px 10px;
@@ -58,7 +58,7 @@
     transform: scale(1.1);
 }
 .closer4{
-    background-image: url('./images/General\ practitioner\ .jpg');
+    background-image: url('General\ practitioner\ .jpg');
     height: 50vh;
     width: 30%;
     padding: 10px 10px; 
@@ -69,7 +69,7 @@
     transform: scale(1.1);
 }
 .closer5{
-    background-image: url('./images/Optometrist.jpg');
+    background-image: url('Optometrist.jpg');
     height: 50vh;
     width: 30%;
     padding: 10px 10px;  
